@@ -7,6 +7,11 @@
     color: #fff;
 }
 
+.dettagli_footer{
+    background-color:#3a546d;
+    color: #fff;
+}
+
 .col_blue{
     background-color:blue;
 } 
@@ -20,10 +25,12 @@
     border-radius: 10px;
 }
 
-.border{
-    border: 1px solid black;
-}
-
 .center{
     justify-content:center
+}
+
+.p_con_link a
+{
+    color: #279087;
+    text-decoration: none;
 }
