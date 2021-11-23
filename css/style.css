@@ -1,0 +1,30 @@
+.navbar{
+    height: 100px;
+}
+
+.dettagli{
+    background-color: #1abc9c;
+    color: #fff;
+}
+
+.col_blue{
+    background-color:blue;
+} 
+
+
+.img{
+    max-width: 230px;
+    margin: 0 auto;
+}
+
+.b_radius{
+    border-radius: 10px;
+}
+
+.border{
+    border: 1px solid black;
+}
+
+.center{
+    justify-content:center
+}
